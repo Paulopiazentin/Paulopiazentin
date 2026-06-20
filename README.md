@@ -16,16 +16,16 @@
 ---
 
 ## 🛠️ Tecnologias
-**Linguagens:** Python | JavaScript | SQL  
-**Dados:** Pandas | NumPy | Matplotlib | Scikit-learn  
+**Linguagens:** Python | Java | SQL  
+**Dados:** Pandas | Streamlit | Matplotlib
 **Web:** HTML | CSS | JavaScript  
-**Cloud:** Conceitos de AWS / Cloud  
-**Ferramentas:** Git | GitHub | VS Code | Linux
+**Cloud:** Conceitos de AWS / Cloud
+**Ferramentas:** Git | GitHub | VS Code 
 
 ---
 
 ## 📊 Projetos em Destaque
-🔹 Em breve (em construção – estudos e projetos acadêmicos)
+🔹Controle de Estoque
 
 ---
 
