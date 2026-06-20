@@ -16,11 +16,11 @@
 ---
 
 ## 🛠️ Tecnologias
-**Linguagens:** Python | Java | SQL  
-**Dados:** Pandas | Streamlit | Matplotlib
-**Web:** HTML | CSS | JavaScript  
-**Cloud:** Conceitos de AWS / Cloud
-**Ferramentas:** Git | GitHub | VS Code 
+**Linguagens:** Python | Java | SQL  <br>
+**Dados:** Pandas | Streamlit | Matplotlib  <br>
+**Web:** HTML | CSS | JavaScript   <br>
+**Cloud:** Conceitos de AWS / Cloud  <br>
+**Ferramentas:** Git | GitHub | VS Code   <br>
 
 ---
 
