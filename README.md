@@ -25,7 +25,9 @@
 ---
 
 ## 📊 Projetos em Destaque
-🔹Controle de Estoque
+🔹APIREST PHP
+🔹POO JAVA
+🔹ESTRUTURAS DE REPETIÇÂO(FOR)
 
 ---
 
