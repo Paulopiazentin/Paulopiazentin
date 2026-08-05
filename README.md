@@ -16,9 +16,9 @@
 ---
 
 ## 🛠️ Tecnologias
-**Linguagens:** Python | Java | SQL  <br>
-**Dados:** Pandas | Streamlit | Matplotlib  <br>
-**Web:** HTML | CSS | JavaScript   <br>
+**Linguagens:** Python | Java | SQL | PHP  <br>
+**Dados:** Pandas | Streamlit | Matplotlib   <br>
+**Web:** HTML | CSS | JavaScript | React  <br>
 **Cloud:** Conceitos de AWS / Cloud  <br>
 **Ferramentas:** Git | GitHub | VS Code   <br>
 
@@ -28,7 +28,7 @@
 🔹APIREST PHP
 🔹POO JAVA
 🔹ESTRUTURAS DE REPETIÇÂO(FOR)
-
+🔹BANCO DE DADOS 
 ---
 
 ## 📫 Contato
