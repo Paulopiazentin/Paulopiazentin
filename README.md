@@ -29,6 +29,7 @@
 🔹POO JAVA
 🔹ESTRUTURAS DE REPETIÇÂO(FOR)
 🔹BANCO DE DADOS 
+🔹REDES
 ---
 
 ## 📫 Contato
